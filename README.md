@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ilya-navumenka.github.io/rsschool-cv/cv
